@@ -1,0 +1,23 @@
+{
+  "name": "ajax-utils",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Takayoshi-Aoyagi/ajax-utils",
+  "authors": [
+    "Takayoshi-Aoyagi"
+  ],
+  "description": "Wrapper for jQuery.ajax",
+  "main": "ajax_utils.js",
+  "jquery": ">=1.7.0"
+  "keywords": [
+    "ajax",
+    "jQuery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
